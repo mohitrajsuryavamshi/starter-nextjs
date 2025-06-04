@@ -7,5 +7,3 @@ else
   echo "⛔ Skipping deployment for branch: $VERCEL_GIT_COMMIT_REF"
   exit 0  # Skip deployment
 fi
-
-
